@@ -1,0 +1,882 @@
+﻿Log file open, 06/21/21 14:41:49
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Henchamen
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.174326
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/liamr/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Engine.ini]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Engine.ini]
+[2021.06.21-20.41.50:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Engine.ini]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Engine.ini]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.21-20.41.50:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Engine.ini]
+[2021.06.21-20.41.50:121][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Engine.ini]
+[2021.06.21-20.41.50:129][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.21-20.41.50:129][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.21-20.41.50:130][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.21-20.41.50:130][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.21-20.41.50:130][  0]LogHAL: Display: Platform has ~ 32 GB [34263408640 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.21-20.41.50:130][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.21-20.41.50:130][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.21-20.41.50:130][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.21-20.41.50:131][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.21-20.41.50:132][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.21-20.41.50:132][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.21-20.41.50:132][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.21-20.41.50:132][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Engine.ini]
+[2021.06.21-20.41.50:132][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Config/Windows/Editor.ini]
+[2021.06.21-20.41.50:132][  0]LogInit: Computer: DESKTOP-K2GR87Q
+[2021.06.21-20.41.50:132][  0]LogInit: User: liamr
+[2021.06.21-20.41.50:132][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.06.21-20.41.50:132][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.21-20.41.50:132][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.06.21-20.41.50:132][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.21-20.41.50:132][  0]LogMemory: Process Physical Memory: 137.71 MB used, 137.71 MB peak
+[2021.06.21-20.41.50:132][  0]LogMemory: Process Virtual Memory: 118.80 MB used, 118.80 MB peak
+[2021.06.21-20.41.50:132][  0]LogMemory: Physical Memory: 7434.50 MB used,  25241.64 MB free, 32676.13 MB total
+[2021.06.21-20.41.50:132][  0]LogMemory: Virtual Memory: 134190664.00 MB used,  27060.34 MB free, 134217728.00 MB total
+[2021.06.21-20.41.50:135][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.21-20.41.50:160][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.21-20.41.50:161][  0]LogInit: Using OS detected language (en-US).
+[2021.06.21-20.41.50:161][  0]LogInit: Using OS detected locale (en-US).
+[2021.06.21-20.41.50:162][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.06.21-20.41.50:286][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.21-20.41.50:296][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.21-20.41.50:304][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.21-20.41.50:304][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.21-20.41.50:388][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.21-20.41.50:388][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.21-20.41.50:388][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.21-20.41.50:388][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.21-20.41.50:457][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.06.21-20.41.50:457][  0]LogD3D11RHI:       8011/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.21-20.41.50:458][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.21-20.41.50:458][  0]LogD3D11RHI:       0/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.21-20.41.50:458][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.21-20.41.50:462][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.21-20.41.50:462][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.21-20.41.50:462][  0]LogWindows: EnumDisplayDevices:
+[2021.06.21-20.41.50:462][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.06.21-20.41.50:462][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.06.21-20.41.50:462][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.06.21-20.41.50:462][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.06.21-20.41.50:462][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.21-20.41.50:462][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.06.21-20.41.50:462][  0]LogD3D11RHI:   Driver Version: 462.59 (internal:27.21.14.6259, unified:462.59)
+[2021.06.21-20.41.50:462][  0]LogD3D11RHI:      Driver Date: 5-6-2021
+[2021.06.21-20.41.50:462][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.06.21-20.41.50:509][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.21-20.41.50:509][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.21-20.41.50:509][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.21-20.41.50:510][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2021.06.21-20.41.50:523][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.21-20.41.50:524][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.21-20.41.50:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.21-20.41.50:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.21-20.41.50:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.21-20.41.50:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.21-20.41.50:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.21-20.41.50:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.21-20.41.50:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.21-20.41.50:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.21-20.41.50:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.21-20.41.50:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.21-20.41.50:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.21-20.41.50:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.21-20.41.50:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.21-20.41.50:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.21-20.41.50:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.21-20.41.50:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.21-20.41.50:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.21-20.41.50:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.21-20.41.50:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.21-20.41.50:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.21-20.41.50:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.21-20.41.50:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.21-20.41.50:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.21-20.41.50:905][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.21-20.41.50:910][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.21-20.41.50:953][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.21-20.41.50:954][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Intermediate/Shaders/WorkingDirectory/11292/).
+[2021.06.21-20.41.50:954][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/liamr/AppData/Local/Temp/UnrealShaderWorkingDir/53CAF7344038AA707437C893902CD054/'.
+[2021.06.21-20.41.50:954][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.21-20.41.50:954][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.21-20.41.51:533][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.21-20.41.51:571][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/liamr/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.21-20.41.51:572][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/liamr/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.21-20.41.51:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.21-20.41.51:572][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.21-20.41.51:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.21-20.41.51:572][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.21-20.41.51:580][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.21-20.41.51:580][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.21-20.41.51:580][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.21-20.41.51:589][  0]LogDerivedDataCache: Speed tests for C:/Users/liamr/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.06.21-20.41.51:589][  0]LogDerivedDataCache: Display: Performance to C:/Users/liamr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=183.36MBs, RandomWriteSpeed=318.70MBs. Assigned SpeedClass 'Local'
+[2021.06.21-20.41.51:589][  0]LogDerivedDataCache: Using Local data cache path C:/Users/liamr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.21-20.41.51:589][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.21-20.41.51:589][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.21-20.41.51:626][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.21-20.41.51:626][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.21-20.41.51:644][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.06.21-20.41.51:811][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.21-20.41.51:811][  0]LogInit: Active device profile: [0000012E4156E300][0000012E401DB640 49] Windows
+[2021.06.21-20.41.51:811][  0]LogInit: Profiles: [0000012E4156E300][0000012E401DB640 49] Windows, [0000012E41526D00][0000012E401D7780 49] WindowsNoEditor, [0000012E4156D200][0000012E401DF8C0 49] WindowsServer, [0000012E41527D00][0000012E401E3A00 49] WindowsClient, [0000012E4156C200][0000012E401EBB80 49] IOS, [0000012E41524B00][0000012E401EFD00 49] iPadAir, [0000012E4156EF00][0000012E401F21C0 49] iPadAir2, [0000012E414D6200][0000012E401FA480 49] IPadPro, [0000012E414D6300][0000012E401F64C0 49] iPadAir3, [0000012E41525A00][0000012E401FE640 49] iPadAir4, [0000012E414D7A00][0000012E402027C0 49] iPadMini2, [0000012E41524300][0000012E40206940 49] iPadMini3, [0000012E414D5700][0000012E4020AAC0 49] iPadMini4, [0000012E41526800][0000012E4020EC40 49] iPadMini5, [0000012E414E9B00][0000012E40216F00 49] iPhone6, [0000012E414E9C00][0000012E40212F40 49] iPodTouch6, [0000012E4156E000][0000012E4021F200 49] iPhone7, [0000012E4156D300][0000012E4021B240 49] iPodTouch7, [0000012E414EAC00][0000012E402233C0 49] iPhone5S, [0000012E4156E900][0000012E40227540 49] iPhone6Plus, [0000012E414EA000][0000012E401E7680 49] iPhone6S, [0000012E4156DD00][0000012E4022B7C0 49] iPhone6SPlus, [0000012E414E9900][0000012E40241900 49] iPhone7Plus, [0000012E4156D000][0000012E40255A40 49] iPhoneSE, [0000012E414EB100][0000012E402B9BC0 49] iPhone8, [0000012E4156D500][0000012E422D5D40 49] iPhone8Plus, [0000012E414EAA00][0000012E422E4200 49] iPhoneX, [0000012E4156C300][0000012E422F4380 49] iPhoneXS, [0000012E414EA700][0000012E42318500 49] iPhoneXSMax, [0000012E4156D900][0000012E4231C680 49] iPhoneXR, [0000012E41527C00][0000012E42320800 49] iPhone11, [0000012E414E8C00][0000012E42324980 49] iPhone11Pro, [0000012E41526E00][0000012E42328B00 49] iPhone11ProMax, [0000012E414EB800][0000012E42330C80 49] iPhoneSE2, [0000012E41527000][0000012E42334E00 49] iPhone12Mini, [0000012E414EA500][0000012E42338F80 49] iPhone12, [0000012E41525100][0000012E42345100 49] iPhone12Pro, [0000012E414EB900][0000012E42349280 49] iPhone12ProMax, [0000012E41524D00][0000012E4234D400 49] iPadPro105, [0000012E414E8A00][0000012E42351580 49] iPadPro129, [0000012E41527600][0000012E42361700 49] iPadPro97, [0000012E4156DE00][0000012E402B5840 49] iPadPro2_129, [0000012E41526100][0000012E42365980 49] iPad5, [0000012E4156F100][0000012E33731AC0 49] iPad6, [0000012E41526200][0000012E33739C40 49] iPad7, [0000012E4156CE00][0000012E3373C100 49] iPad8, [0000012E41524800][0000012E33740280 49] iPadPro11, [0000012E4156EB00][0000012E33744400 49] iPadPro2_11, [0000012E41527200][0000012E33748580 49] iPadPro3_129, [0000012E4156CD00][0000012E3374C700 49] iPadPro4_129, [0000012E41525500][0000012E33750880 49] AppleTV, [0000012E4156E200][0000012E33754A00 49] AppleTV4K, [0000012E41526C00][0000012E33758B80 49] TVOS, [0000012E4156EC00][0000012E42388D00 49] Mac, [0000012E41525D00][0000012E4238CE80 49] MacClient, [0000012E4156F000][0000012E42391000 49] MacNoEditor, [0000012E41527300][0000012E42395180 49] MacServer, [0000012E4156D400][0000012E42399300 49] Linux, [0000012E41524100][0000012E4239D480 49] LinuxAArch64, [0000012E4156CF00][0000012E423A1600 49] LinuxNoEditor, [0000012E41527900][0000012E423A5780 49] LinuxAArch64NoEditor, [0000012E4156C700][0000012E337358C0 49] LinuxClient, [0000012E41525200][0000012E423D5A00 49] LinuxAArch64Client, [0000012E4156FA00][0000012E423D9B40 49] LinuxServer, [0000012E41527100][0000012E423E1CC0 49] LinuxAArch64Server, [0000012E4156F900][0000012E423E4180 49] Android, [0000012E41526300][0000012E423E8300 49] Android_Low, [0000012E4156F600][0000012E423EC480 49] Android_Mid, [0000012E41527800][0000012E423F0600 49] Android_High, [0000012E4156D600][0000012E423F4780 49] Android_Default, [0000012E41527B00][0000012E423F8900 49] Android_Adreno4xx, [0000012E4156ED00][0000012E423FCA80 49] Android_Adreno5xx_Low, [0000012E41525F00][0000012E42400C00 49] Android_Adreno5xx, [0000012E4156CC00][0000012E42404D80 49] Android_Adreno6xx, [0000012E41524A00][0000012E42408F00 49] Android_Adreno6xx_Vulkan, [0000012E4156F400][0000012E4240D080 49] Android_Mali_T6xx, [0000012E41526A00][0000012E4244D200 49] Android_Mali_T7xx, [0000012E4156FD00][0000012E42451380 49] Android_Mali_T8xx, [0000012E41527500][0000012E42455500 49] Android_Mali_G71, [0000012E4156CA00][0000012E42459680 49] Android_Mali_G72, [0000012E414D6B00][0000012E4245D800 49] Android_Mali_G72_Vulkan, [0000012E414E8900][0000012E423DD940 49] Android_Mali_G76, [0000012E414D4500][0000012E42461A80 49] Android_Mali_G76_Vulkan, [0000012E414E9A00][0000012E42465BC0 49] Android_Mali_G77, [0000012E414D6800][0000012E42469D00 49] Android_Mali_G77_Vulkan, [0000012E414EBB00][0000012E424701C0 49] Android_Vulkan_SM5, [0000012E414D4600][0000012E42474340 49] Android_PowerVR_G6xxx, [0000012E414EA900][0000012E424784C0 49] Android_PowerVR_GT7xxx, [0000012E414D4400][0000012E4247C640 49] Android_PowerVR_GE8xxx, [0000012E414E8B00][0000012E424807C0 49] Android_PowerVR_GM9xxx, [0000012E414D5300][0000012E42484940 49] Android_PowerVR_GM9xxx_Vulkan, [0000012E414EA800][0000012E42488AC0 49] Android_TegraK1, [0000012E414D4900][0000012E4248CC40 49] Android_Unknown_Vulkan, [0000012E414EB600][0000012E42490DC0 49] Lumin, [0000012E414D5A00][0000012E42494F40 49] Lumin_Desktop, [0000012E414E9700][0000012E424990C0 49] HoloLens, 
+[2021.06.21-20.41.51:841][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.21-20.41.51:841][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.21-20.41.51:841][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.21-20.41.51:841][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.21-20.41.51:841][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.21-20.41.51:901][  0]LogNetVersion: Henchamen 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1489891401)
+[2021.06.21-20.41.52:201][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.21-20.41.52:227][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.026118 seconds
+[2021.06.21-20.41.52:232][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.21-20.41.52:232][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.21-20.41.52:232][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.21-20.41.52:485][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.21-20.41.52:489][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.21-20.41.52:584][  0]SourceControl: Source control is disabled
+[2021.06.21-20.41.52:584][  0]SourceControl: Source control is disabled
+[2021.06.21-20.41.52:587][  0]SourceControl: Source control is disabled
+[2021.06.21-20.41.52:589][  0]SourceControl: Source control is disabled
+[2021.06.21-20.41.52:594][  0]SourceControl: Source control is disabled
+[2021.06.21-20.41.52:598][  0]LogUProjectInfo: Found projects:
+[2021.06.21-20.41.52:726][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.21-20.41.52:737][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.21-20.41.52:737][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.21-20.41.52:775][  0]LogCollectionManager: Loaded 0 collections in 0.000933 seconds
+[2021.06.21-20.41.52:790][  0]LogFileCache: Scanning file cache for directory 'C:/Users/liamr/Documents/Unreal Projects/Henchamen/Saved/Collections/' took 0.00s
+[2021.06.21-20.41.52:791][  0]LogFileCache: Scanning file cache for directory 'C:/Users/liamr/Documents/Unreal Projects/Henchamen/Content/Developers/liamr/Collections/' took 0.00s
+[2021.06.21-20.41.52:791][  0]LogFileCache: Scanning file cache for directory 'C:/Users/liamr/Documents/Unreal Projects/Henchamen/Content/Collections/' took 0.00s
+[2021.06.21-20.41.52:791][  0]LogOcInput: OculusInput pre-init called
+[2021.06.21-20.41.52:798][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.21-20.41.52:799][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.21-20.41.52:835][  0]LogEngine: Initializing Engine...
+[2021.06.21-20.41.52:836][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.21-20.41.52:836][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.21-20.41.52:836][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.21-20.41.52:919][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.21-20.41.52:924][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.21-20.41.52:937][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.21-20.41.52:940][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.21-20.41.52:940][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.21-20.41.52:940][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-20.41.52:940][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-20.41.52:940][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-20.41.52:940][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-20.41.52:940][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-20.41.52:940][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-20.41.52:940][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-20.41.52:940][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-20.41.52:940][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-20.41.52:940][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-20.41.52:948][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-20.41.52:948][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-20.41.52:964][  0]LogAudioMixer: Display: Using Audio Device Speakers (G935 Gaming Headset)
+[2021.06.21-20.41.52:968][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-20.41.52:969][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-20.41.52:969][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-20.41.52:970][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-20.41.52:970][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-20.41.52:970][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-20.41.52:970][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-20.41.52:970][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-20.41.52:970][  0]LogInit: FAudioDevice initialized.
+[2021.06.21-20.41.52:970][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.21-20.41.52:970][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.21-20.41.53:004][  0]LogDerivedDataCache: Saved boot cache 0.03s 77MB C:/Users/liamr/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.21-20.41.53:005][  0]LogInit: Texture streaming: Enabled
+[2021.06.21-20.41.53:014][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.21-20.41.53:016][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.21-20.41.53:016][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.21-20.41.53:017][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.21-20.41.53:033][  0]LogInit: Transaction tracking system initialized
+[2021.06.21-20.41.53:048][  0]BlueprintLog: New page: Editor Load
+[2021.06.21-20.41.53:098][  0]LocalizationService: Localization service is disabled
+[2021.06.21-20.41.53:115][  0]TimingProfiler: Initialize
+[2021.06.21-20.41.53:115][  0]TimingProfiler: OnSessionChanged
+[2021.06.21-20.41.53:115][  0]LoadingProfiler: Initialize
+[2021.06.21-20.41.53:115][  0]LoadingProfiler: OnSessionChanged
+[2021.06.21-20.41.53:115][  0]NetworkingProfiler: Initialize
+[2021.06.21-20.41.53:115][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.21-20.41.53:115][  0]MemoryProfiler: Initialize
+[2021.06.21-20.41.53:115][  0]MemoryProfiler: OnSessionChanged
+[2021.06.21-20.41.53:203][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.21-20.41.53:203][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.21-20.41.53:309][  0]LogFileCache: Scanning file cache for directory 'C:/Users/liamr/Documents/Unreal Projects/Henchamen/Content/' took 0.00s
+[2021.06.21-20.41.53:445][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.21-20.41.53:447][  0]SourceControl: Source control is disabled
+[2021.06.21-20.41.53:447][  0]LogUnrealEdMisc: Loading editor; pre map load, took 3.950
+[2021.06.21-20.41.53:447][  0]Cmd: MAP LOAD FILE="../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.21-20.41.53:447][  0]LightingResults: New page: Lighting Build
+[2021.06.21-20.41.53:447][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-20.41.53:447][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-20.41.53:447][  0]MapCheck: New page: Map Check
+[2021.06.21-20.41.53:447][  0]LightingResults: New page: Lighting Build
+[2021.06.21-20.41.53:453][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.21-20.41.53:455][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Midas_AnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:456][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/Pose_AutoDrum_AdditiveBase_CMM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:456][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Midas_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:457][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Head/M_NoWep_Relaxed.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:457][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/Equipped1D.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:457][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/Minigun_Idle_Patrol_Pose.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:457][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/Minigun_Walk_Patrol_N_Core.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:458][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/unequipped1D.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:458][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/M_NoWep_Relaxed.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:458][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/Walk_N_NoWeapon.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:469][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Enums/EWeaponState.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:470][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Enums/ChaseStatus.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:470][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/PatrolPath.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:471][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/AIWeaponBase.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:471][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/MidasDrumGun_Skeleton_AnimBlueprint.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:472][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/MidasDrumGun_Skeleton_Sequence.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:472][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/MidasDrumGun_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:473][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/AR_DrumGun_Reload_CMM_Montage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:473][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/AR_DrumGun_Reload_CMM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:473][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/MidasDrumGunReload_Montage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:473][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/MidasDrumGunReload.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:474][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/Idle/MidasIdle1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:476][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/MidasVoice.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:477][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Midasheadacc.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:477][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/materials/M_Hair.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:477][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/materials/Shader.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:478][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Human_FaceAcc_D.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:478][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Human_FaceAcc_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:479][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Human_FaceAcc_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:479][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Human_FaceAcc_S.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:479][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Midasheadacc_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:479][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Midashead.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:480][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/materials/M_Head.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:480][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Human_Head_D.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:480][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Human_Head_E.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:480][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Human_Head_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:480][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Human_Head_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:481][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Human_Head_S.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:481][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Midashead_PhysicsAsset.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:481][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Midashead_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:482][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Widgets/HealthBar.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:482][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Widgets/StateIcon.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:483][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Widgets/Textures/IngageIconMidas.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:485][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/Bullet/Bullet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:485][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/Bullet/Bullet_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:487][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/MidasDrumGun.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:488][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/DrumGun_Instance.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:488][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/T_Weapon_Drum_Gun_Engineer_D.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:488][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/T_Weapon_Drum_Gun_Engineer_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:488][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGun/T_Weapon_Drum_Gun_Engineer_S.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:489][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/Weapons/DrumGun/DrumgunSingleShot1_Cue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:489][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/Weapons/DrumGun/DrumgunSingleShot1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:496][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Midas.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:496][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/materials/M_Body.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:497][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Body_D.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:497][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Body_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:497][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Body_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:497][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Textures/T_M_MED_Cat_Burglar_Body_S.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:497][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Midas/Midas_PhysicsAsset.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:498][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Death_Fwd_Montage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:498][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Death_Fwd.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:498][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/Patrol_Minigun_HitReact_A_Montage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:499][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/Patrol_Minigun_HitReact_A.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:499][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/Patrol_NoWeapon_HitReact_A_Montage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:499][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/Patrol_NoWeapon_HitReact_A.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:500][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/AI_BT.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:500][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/AssaultRifle_Patrol_AlertToCombat_Montage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:500][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Animations/Midas/AssaultRifle_Patrol_AlertToCombat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:501][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/AI_BB.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:501][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Commands/ChangeStatus.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:502][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Commands/ChasePlayer.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:504][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Commands/FindPathPoint.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:505][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Commands/IncrementPathIndex.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:506][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Commands/InvestigatePlayer.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:522][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Commands/LostTarget.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:523][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Commands/PlayMontage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:524][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/FullAlert/MidasFullAlert1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:524][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/FullAlert/MidasTargetLost.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:524][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Widgets/Textures/LostSightMidas.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:525][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Weapons/DrumGunAI.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:526][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/Death/Midas_Death2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:526][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/Death/MidasDeath.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:526][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/Death/MidasDeath_Cue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:527][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/FullAlert/MidasFullAlert2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:527][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/FullAlert/MidasFullAlert3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:527][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/FullAlert/MidasFullAlert4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:527][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/Idle/MidasIdle2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:527][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/Idle/MidasIdle3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:527][  0]LogLinker: Warning: Asset '../../../../../../Users/liamr/Documents/Unreal Projects/Henchamen/Content/AI/Audio/Idle/MidasIdle4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.21-20.41.53:720][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.06.21-20.41.53:822][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.06.21-20.41.53:822][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.21-20.41.53:829][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.21-20.41.53:836][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.21-20.41.53:836][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.21-20.41.53:836][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2021.06.21-20.41.53:836][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.389
+[2021.06.21-20.41.53:837][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.340
+[2021.06.21-20.41.53:928][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-20.41.53:932][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-20.41.53:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-20.41.53:941][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-20.41.53:951][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0069 seconds. Added 3601 classes and 859 folders.
+[2021.06.21-20.41.53:952][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.21-20.41.53:953][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.21-20.41.53:953][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:953][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.21-20.41.53:953][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.06.21-20.41.53:954][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.21-20.41.53:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.21-20.41.53:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.06.21-20.41.53:954][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.21-20.41.53:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.21-20.41.53:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.06.21-20.41.53:954][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-20.41.53:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.21-20.41.53:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.06.21-20.41.53:955][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.21-20.41.53:955][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:955][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.21-20.41.53:955][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.06.21-20.41.53:955][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.21-20.41.53:955][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:955][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.21-20.41.53:955][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.06.21-20.41.53:955][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.21-20.41.53:955][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:955][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.21-20.41.53:955][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.06.21-20.41.53:956][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.21-20.41.53:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.21-20.41.53:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.06.21-20.41.53:956][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.21-20.41.53:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.21-20.41.53:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.06.21-20.41.53:956][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.21-20.41.53:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.21-20.41.53:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.06.21-20.41.53:957][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.21-20.41.53:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.21-20.41.53:957][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.06.21-20.41.53:957][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.21-20.41.53:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.21-20.41.53:957][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.06.21-20.41.53:957][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-20.41.53:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.21-20.41.53:957][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.21-20.41.53:958][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.21-20.41.53:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.21-20.41.53:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.06.21-20.41.53:958][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.21-20.41.53:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.21-20.41.53:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.21-20.41.53:958][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.21-20.41.53:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.21-20.41.53:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.21-20.41.53:959][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.21-20.41.53:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.21-20.41.53:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.06.21-20.41.53:959][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.21-20.41.53:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.21-20.41.53:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.06.21-20.41.53:959][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-20.41.53:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.21-20.41.53:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.06.21-20.41.53:960][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-20.41.53:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.21-20.41.53:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.06.21-20.41.53:960][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.21-20.41.53:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.21-20.41.53:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.21-20.41.53:960][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.21-20.41.53:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.21-20.41.53:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.21-20.41.53:961][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.21-20.41.53:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.21-20.41.53:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.06.21-20.41.53:961][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.21-20.41.53:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.21-20.41.53:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.06.21-20.41.53:961][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-20.41.53:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.21-20.41.53:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.06.21-20.41.53:962][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.21-20.41.53:962][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-20.41.53:962][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.21-20.41.53:962][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.06.21-20.41.53:984][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.21-20.41.53:985][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.06.21-20.41.54:008][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.21-20.41.54:010][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.21-20.41.54:013][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.21-20.41.54:072][  0]LogRenderer: Reallocating scene render targets to support 1616x804 Format 10 NumSamples 1 (Frame:1).
+[2021.06.21-20.41.54:145][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.21-20.41.54:145][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.06.21-20.41.54:145][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.06.21-20.41.54:145][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.06.21-20.41.54:145][  0]LogLoad: (Engine Initialization) Total time: 4.65 seconds
+[2021.06.21-20.41.54:145][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.21-20.41.54:145][  0]LogInit: First time updating LLM stats...
+[2021.06.21-20.41.54:181][  0]LogAssetRegistry: Asset discovery search completed in 2.5379 seconds
+[2021.06.21-20.41.54:182][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.06.21-20.41.54:204][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.21-20.41.58:549][291]LogEditorViewport: Clicking on Actor (LMB): AI_Base_C (AI_Base)
+[2021.06.21-20.43.19:483][500]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2021.06.21-20.44.16:278][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
